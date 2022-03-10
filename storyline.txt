@@ -1,0 +1,4 @@
+Originally created to classify data into different classes by constructing hyperplane
+Begin by classifying 2 object into 2 classes, show how it can be done
+Talk about linear classification into 2 classes
+Talk about multiclass and different ways to do
